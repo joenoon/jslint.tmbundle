@@ -9,6 +9,6 @@ jslint_on_rails plugin ported to TextMate bundle by Joe Noon (does not require r
 
 Credits
 
-JSLint on Rails was created by Jakub Suder, licensed under MIT License
-JSLint was created by Douglas Crockford
-HTML output is a modified version of http://github.com/subtleGradient/javascript-tools.tmbundle
+* JSLint on Rails was created by Jakub Suder, licensed under MIT License
+* JSLint was created by Douglas Crockford
+* HTML output is a modified version of http://github.com/subtleGradient/javascript-tools.tmbundle
